@@ -1,0 +1,102 @@
+@font-face{
+font-family:cheri;
+src:url('../fontes/CHERI.ttf');	
+}
+
+@font-face{
+font-family:art;
+src:url('../fontes/ART.otf');	
+}
+
+@font-face{
+font-family:roboto;
+src:url('../fontes/Roboto-Light.ttf');	
+}
+
+
+
+
+
+
+#titulo{
+font-family:art;
+background-color:#837e7a;
+text-align:center;
+color:#e2d9d9;
+font-size:4.5rem;
+}
+
+
+
+
+
+#letra{
+	font-size:5.9rem;
+	color:yellow;
+}
+
+.cabec{
+	width:100%;
+}
+
+.menu{
+margin-top:60px;	
+}
+
+li{
+	display:inline-block;
+	font-family:roboto;
+	font-size:1.4em;
+	margin-right:60px;
+	border:1px solid red;
+	width:100px;
+	text-align:center;
+	padding:8px;
+	border-radius:5px;
+	background-color:#867f79;
+}
+
+li:hover{
+	background-color:rgb(206, 47, 47);
+}
+
+a{
+text-decoration:none;	
+color:#ddcbcb;
+font-weight:bold;
+}
+
+#areacentral{
+	display:flex;
+	margin-top:140px;
+	justify-content: space-around;
+}
+
+.txt{
+	width:28%;
+	font-family:roboto;
+	font-size:1.4em;
+	border: solid black; 
+	background-color:rgb(223, 196, 138);
+	
+}
+
+.fig{
+  width:50%;
+  
+   
+}
+
+.img1{
+width:90%;
+height:220px;
+ 	
+}
+
+
+
+.p1{
+	margin-bottom:10px;
+	color:#1d1b1b;
+}
+
